@@ -22,6 +22,7 @@ int main() {
         }
         cout<<sum+abs(ar[a]-ar[1])<<endl;
         cout<<abs(ar[a]-ar[1]);
+        cout<<"vinay";
         
     }
 }
